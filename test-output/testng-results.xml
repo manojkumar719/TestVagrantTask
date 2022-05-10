@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-08T16:58:02 IST" name="Suite" finished-at="2022-05-08T16:58:36 IST" duration-ms="34127">
+    <groups>
+    </groups>
+    <test started-at="2022-05-08T16:58:02 IST" name="Test" finished-at="2022-05-08T16:58:36 IST" duration-ms="34127">
+      <class name="tests.MovieInfoValidation">
+        <test-method is-config="true" signature="propSetting()[pri:0, instance:tests.MovieInfoValidation@793be5ca]" started-at="2022-05-08T16:58:02 IST" name="propSetting" finished-at="2022-05-08T16:58:02 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propSetting -->
+        <test-method signature="validateMovie()[pri:0, instance:tests.MovieInfoValidation@793be5ca]" started-at="2022-05-08T16:58:02 IST" name="validateMovie" finished-at="2022-05-08T16:58:36 IST" duration-ms="34049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMovie -->
+      </class> <!-- tests.MovieInfoValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
