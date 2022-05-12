@@ -1,7 +1,15 @@
 # TestVagrantTask
-The main purpose of this project is to validate the movie informatino from IMDB and WIKI. 
-In the root folder, we have a file named "testng.xml" which contains the list of all the tests that can be run. 
-"src/test/java/tests" contains the test cases. 
-"src/test/java/utility" contains the utility classes. 
-"Config/config.properties" contains the url and other configurations required to run a project on an environment.
-"drivers" contains the driver executables required to run the project
+Softwares to Install:
+1. Java 1.8 or above
+2. Maven
+3. Eclipse
+4. Git bash
+5. Download TestNG plugin to Eclipse
+
+Steps to Run the project
+1. Download or clone the repository on to your local
+2. Open eclipse 
+3. Import the project as a maven project
+4. "src/test/java/tests" package contains MovieInfoValidation.java file
+5. Right click and Run as TestNG
+6. Verify that the console prints the status of tests run after execution is complete
